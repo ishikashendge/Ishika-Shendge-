@@ -1,0 +1,7 @@
+c=input("enter the word")
+n=input("enter which character to check")
+count=0
+for x in c:
+    if x==n:
+            count+=1
+print(count)      
