@@ -1,0 +1,6 @@
+list1=[22,56,77,44,33,3]
+summ=0
+for ele in range(0,len(list1)):
+	summ=summ+list1[ele]
+print ("sum of elements",summ)
+
