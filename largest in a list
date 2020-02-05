@@ -1,0 +1,4 @@
+list1=[11,34,56,77,8,65,87]
+largest=0
+largest=max(list1)
+print ("largest no. ",largest)
