@@ -1,0 +1,6 @@
+list1=[22,34,56,22,46,7,5,9,8,63]
+num=0
+for num in list1:
+    if num%2 !=0:
+        print ("odd numbers",num)
+    
